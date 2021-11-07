@@ -1,0 +1,33 @@
+{
+  "name": "meiwobuxing",
+  "builder": "go1.17.2 darwin/amd64",
+  "hash": "a910e494ed8c8bc2c4736768709d56396762bc56",
+  "time": "Sun Nov 7 23:03:52 2021 +0800",
+  "version": "v1.0.15",
+  "major": 1,
+  "minor": 0,
+  "patch": 15,
+  "types": [
+    "windows_amd64",
+    "windows_arm64",
+    "linux_amd64",
+    "linux_arm64",
+    "darwin_amd64",
+    "darwin_arm64",
+    "linux_mipsle"
+  ],
+  "digests": [
+    "b7e55b80caa6835106316330f4631d94",
+    "d571c682e0f6b544e750208b1f21eba9",
+    "441c3075920d407cb6f66d4795abe0fc",
+    "51194be2140417acf41821bb1cf1259d",
+    "4be9a1e83f4d0dcbdc72a91880515ec7",
+    "aa25ae13d91cf1b9b569c86a82d1b783",
+    "375e62ad99b2d59021028882637ac6dd"
+  ],
+  "pDigests": [
+    "467fe392501629d0234d82acdd87dc84",
+    "990b4c6b4456d57c3f9a32b565483f86",
+    "88e8a5c937d1335e4bee4ace2a281eb2"
+  ]
+}
